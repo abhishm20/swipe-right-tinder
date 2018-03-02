@@ -1,4 +1,5 @@
 # swipe-right-tinder
-
-##install selenium
-pip install selenium
+## pip install selenium
+## set chromedriver path in main.py
+## set chrome profile path in main.py
+## python main.py
